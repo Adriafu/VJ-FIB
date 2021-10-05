@@ -1,0 +1,16 @@
+TILEMAP
+15 11							-- Size of tile map in tiles
+39 78							-- Tile size & block size
+images/church.png 	-- Tilesheet
+3 3								-- Number of tiles in tilesheet
+466666666666666
+8             4
+8             4
+8             4
+8             4
+8     5       4
+8    5        4
+8  55         4
+8             4
+812233221231223
+844444444444444							
